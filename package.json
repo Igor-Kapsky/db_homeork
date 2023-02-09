@@ -1,0 +1,25 @@
+{
+  "name": "hw_db",
+  "version": "1.0.0",
+  "description": "work with db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igor-Kapsky/db_homeork.git"
+  },
+  "keywords": [
+    "mysql"
+  ],
+  "author": "ik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igor-Kapsky/db_homeork/issues"
+  },
+  "homepage": "https://github.com/Igor-Kapsky/db_homeork#readme",
+  "dependencies": {
+    "mysql2": "^3.1.0"
+  }
+}
